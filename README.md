@@ -42,4 +42,5 @@ EclipseConsole
 **Client:** React Js
 
 **Server:** Springboot
+**Database:** MongoDB
 
